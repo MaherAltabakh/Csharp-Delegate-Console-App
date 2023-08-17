@@ -1,0 +1,16 @@
+C:\Users\maher\source\repos\Delegate try\bin\Debug\Delegate try.exe.config
+C:\Users\maher\source\repos\Delegate try\bin\Debug\Delegate try.exe
+C:\Users\maher\source\repos\Delegate try\bin\Debug\Delegate try.pdb
+C:\Users\maher\source\repos\Delegate try\obj\Debug\Delegate try.csproj.AssemblyReference.cache
+C:\Users\maher\source\repos\Delegate try\obj\Debug\Delegate try.csproj.SuggestedBindingRedirects.cache
+C:\Users\maher\source\repos\Delegate try\obj\Debug\Delegate try.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\Delegate try\obj\Debug\Delegate try.exe
+C:\Users\maher\source\repos\Delegate try\obj\Debug\Delegate try.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\bin\Debug\Delegate try.exe.config
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\bin\Debug\Delegate try.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\bin\Debug\Delegate try.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\obj\Debug\Delegate try.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\obj\Debug\Delegate try.csproj.SuggestedBindingRedirects.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\obj\Debug\Delegate try.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\obj\Debug\Delegate try.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\Delegate try\obj\Debug\Delegate try.pdb
